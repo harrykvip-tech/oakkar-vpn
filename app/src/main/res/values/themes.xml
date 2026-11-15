@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- dark window background so there is no white flash before the splash animation starts -->
-    <style name="Theme.Oakkar" parent="@android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:windowBackground">#FF062F34</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-</resources>
